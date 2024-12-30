@@ -21,5 +21,5 @@ if exist "%TEMP_CMD%" (
     del "%TEMP_CMD%" >nul
 )
 
-echo Update completed!
+echo Update completed! mèn đét ơi
 pause
