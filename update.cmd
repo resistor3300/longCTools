@@ -21,7 +21,7 @@ if exist "%TEMP_CMD%" (
     del "%TEMP_CMD%" >nul
 )
 
-echo Update completed! mèn đét ơi
+echo Update completed! mèn đét ơi chờ xíu...
 npm install
 echo Mèn Đét Ơi Update ok rồi
 pause
