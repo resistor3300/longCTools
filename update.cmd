@@ -13,5 +13,5 @@ git pull
 copy "%TEMP_CMD%" "%~f0" >nul
 del "%TEMP_CMD%" >nul
 
-echo Update completed!
+echo Update completed! ok mèn đét ơi
 pause
