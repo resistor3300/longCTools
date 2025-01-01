@@ -18,7 +18,7 @@ if "%ver_major%"=="10" (
 call npm install
 
 :: Hiển thị thông báo hoàn tất
-echo Đã hoàn thành
+echo CAI DAT THANH CONG
 echo.
-echo Bấm phím bất kỳ để thoát...
+echo BAM PHIM BAT KY DE THOAT...
 pause
