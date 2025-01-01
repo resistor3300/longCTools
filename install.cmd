@@ -15,12 +15,10 @@ if "%ver_major%"=="10" (
 )
 
 :: Thực thi npm install
-npm install
+call npm install
 
 :: Hiển thị thông báo hoàn tất
 echo Đã hoàn thành
 echo.
 echo Bấm phím bất kỳ để thoát...
-pause >nul
-:: Lệnh dừng hộp thoại (đề phòng)
-cmd /k
+pause

@@ -22,6 +22,6 @@ if exist "%TEMP_CMD%" (
 )
 
 echo Update completed! mèn đét ơi chờ xíu...
-npm install
+call npm install
 echo Mèn Đét Ơi Update ok rồi
 pause
