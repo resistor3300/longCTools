@@ -1,0 +1,279 @@
+// Tạo mảng 2D 9x6
+//
+let board = Array.from({ length: 9 }, () => Array(6).fill(null));
+// Hàm để lấy số coin từ ô mở
+function getCoinNumber(field) {
+    for (let i = 1; i <= 8; i++) {
+        let coinImage = field.querySelector(`img[src*='/assets/Coin${i}']`);
+        if (coinImage) {
+            return i;
+        }
+    }
+    return 0; // Ô không có coin (ô trống)
+}
+// Hàm cập nhật mảng 2D
+function updateBoard() {
+    for (let row = 0; row < 9; row++) {
+        for (let col = 0; col < 6; col++) {
+            // XPath để xác định ô
+            let position = row * 6 + col + 1;
+            let xpath = `//div[contains(@class, '_field_')][${position}]`;
+
+            // Tìm ô theo XPath
+            let result = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+            let field = result.singleNodeValue;
+
+            // Kiểm tra nếu ô được tìm thấy
+            if (field) {
+                // Kiểm tra nếu ô có chứa cờ (flag) bằng XPath
+                let flagResult = document.evaluate(".//div[contains(@class, '_flagAnimation_')]", field, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+                let flagField = flagResult.singleNodeValue;
+
+                if (flagField) {
+                    board[row][col] = 'bomb'; // Ô có cắm cờ là bom
+                } 
+                // Kiểm tra xem ô có class "open" không
+                else if (field.classList.contains("open")) {
+                    // Kiểm tra có coin nào hay không
+                    let coinNumber = getCoinNumber(field);
+                    board[row][col] = coinNumber > 0 ? coinNumber : 0; // Lưu giá trị số coin hoặc ô trống
+                } else {
+                    board[row][col] = null; // Ô chưa mở
+                }
+            }
+        }
+    }
+    // Hiển thị bảng kết quả
+    console.log(board);
+  processBoard(board);
+}
+
+// Đặt interval để cập nhật mảng mỗi 3 giây
+setInterval(updateBoard, getramdon(2000,4000));
+
+
+// // Khởi tạo bảng 2D 9x6
+// let board = [
+//     [0, 0, 0, 0, 1, 1],
+//     [1, 1, 0, 1, 2, "bomb"],
+//     ["bomb", 2, 2, 2, "bomb", 2],
+//     [2, "bomb", 3, "bomb", 3, 1],
+//     [2, 2, 3, "bomb", 2, 0],
+//     ["bomb", 1, 1, 1, 1, 0],
+//     [2, 3, 2, 1, 0, 0],
+//     [1, "bomb", "bomb", 1, 0, 0],
+//     [1, 2, 2, 1, 0, 0]
+// ];
+
+// Hàm chuyển từ tọa độ (row, col) sang vị trí từ 1 tới 54
+function getPositionFromRowCol(row, col, cols = 6) {
+    return row * cols + col + 1;
+}
+
+// Hàm kiểm tra ma trận 3x3
+function check3x3Matrix(board, startRow, startCol, totalBombsFound) {
+    let nullPositions = [];
+    let centerValue = board[startRow][startCol];
+    let cellBomb = 0;
+
+    // Nếu trung tâm là "bomb" hoặc không phải là số thì bỏ qua ma trận này
+    if (centerValue === "bomb") {
+        totalBombsFound++;
+        return null;
+    }
+
+    if (typeof centerValue !== "number" || centerValue === 0) {
+        return null;
+    }
+
+    // Duyệt qua ma trận 3x3, bỏ qua các vị trí ngoài phạm vi bảng
+    for (let i = -1; i <= 1; i++) {
+        for (let j = -1; j <= 1; j++) {
+            let row = startRow + i;
+            let col = startCol + j;
+
+            // Kiểm tra nếu tọa độ nằm ngoài phạm vi bảng
+            if (row < 0 || row >= board.length || col < 0 || col >= board[0].length) {
+                continue;
+            }
+
+            let cellValue = board[row][col];
+
+            // Nếu giá trị của ô là "bomb", xác định là có bom
+            if (cellValue === "bomb") {
+                cellBomb++;
+                continue;
+            }
+
+            if (cellValue === null) {
+                nullPositions.push([row, col]);
+            }
+        }
+    }
+
+    // Nếu đã tìm đủ số bom theo ô trung tâm, các ô null còn lại an toàn
+    if (cellBomb >= centerValue) {
+        if (nullPositions.length >= 1) {
+            let safePositions = nullPositions[0];
+            return { safe: getPositionFromRowCol(safePositions[0], safePositions[1]) };
+        }
+    }
+
+    // Nếu số ô null nhỏ hơn hoặc bằng giá trị ở ô trung tâm, tất cả là vị trí bom
+    if ((nullPositions.length + cellBomb) <= centerValue && nullPositions.length >= 1) {
+        return { bombs: nullPositions.map(pos => getPositionFromRowCol(pos[0], pos[1])) };
+    }
+
+    return null;
+}
+
+// Hàm kiểm tra toàn bộ bảng 9x6
+function checkAll3x3Matrices(board, totalBombsFound) {
+    for (let row = 0; row < board.length; row++) {
+        for (let col = 0; col < board[0].length; col++) {
+            let result = check3x3Matrix(board, row, col, totalBombsFound);
+
+            if (result && result.bombs) {
+                return { bombs: result.bombs[0] }; // Trả về ngay khi tìm thấy vị trí bom
+            }
+
+            if (result && result.safe) {
+                return { safe: result.safe }; // Trả về ngay khi tìm thấy vị trí an toàn
+            }
+        }
+    }
+
+    return null;
+}
+
+// Hàm chọn ngẫu nhiên một vị trí chưa mở (null)
+function getRandomNullPosition(board) {
+    let nullPositions = [];
+
+    for (let row = 0; row < board.length; row++) {
+        for (let col = 0; col < board[0].length; col++) {
+            if (board[row][col] === null) {
+                nullPositions.push(getPositionFromRowCol(row, col));
+            }
+        }
+    }
+
+    if (nullPositions.length > 0) {
+        return nullPositions[Math.floor(Math.random() * nullPositions.length)];
+    }
+
+    return null;
+}
+
+// Hàm chính: Kiểm tra và xử lý theo yêu cầu
+function processBoard(board) {
+    let totalBombsFound = 0;
+    let maxBombs = 9; // Số lượng bom tối đa
+    let previousBombsFound = -1; // Số lượng bom đã tìm thấy trước đó
+
+    // Lặp cho đến khi tìm thấy đủ 9 quả bom
+    while (totalBombsFound < maxBombs) {
+        if (previousBombsFound === totalBombsFound) {
+            break; // Nếu số bom không thay đổi, thoát khỏi vòng lặp
+        }
+
+        previousBombsFound = totalBombsFound; // Cập nhật số bom trước đó
+        let result = checkAll3x3Matrices(board, totalBombsFound);
+
+        if (result === null) {
+            break; // Nếu không có kết quả, thoát khỏi vòng lặp
+        }
+
+        if (result.safe) {
+            console.log("safe:", result.safe);
+          processString("safe:"+result.safe);
+            return;
+        } else if (result.bombs) {
+            console.log("bombs:", result.bombs);
+          processString("bombs:"+result.bombs);
+            return;
+        }
+    }
+
+    // Nếu đã tìm đủ 9 quả bom, tất cả các ô còn lại là an toàn
+    if (totalBombsFound >= maxBombs) {
+        console.log("Đã tìm đủ 9 quả bom. Tất cả các ô chưa mở còn lại là an toàn.");
+    } else {
+        let randomPosition = getRandomNullPosition(board);
+        if (randomPosition !== null) {
+            console.log("random:", randomPosition);
+          processString("random:"+randomPosition);
+        } else {
+            console.log("done:done");
+          processString("done:done");
+        }
+    }
+}
+
+// Hàm xử lý chuỗi đầu vào
+// Hàm xử lý chuỗi đầu vào
+function processString(input) {
+    let [action, position] = input.split(":");
+
+    // XPath để kiểm tra chế độ hiện tại (mở ô hoặc cắm cờ)
+    let modeXPath = "//div[contains(@class,'_mineFlagContainer_')]//img[contains(@alt,'Mine/Flag')]";
+    let changemode="";
+    let modeResult = document.evaluate(modeXPath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+    let modeElement = modeResult.singleNodeValue;
+
+    // Kiểm tra nếu chế độ hiện tại là mở ô (class '_inactive_') hay cắm cờ (class '_active_')
+    if (modeElement) {
+        let isFlagMode = modeElement.classList.contains('flag');
+        let isOpenMode=false;
+        changemode="//button[contains(@class,'tgui-b5d680db78c4cc2e tgui-bbfb272d22eb23e8')]//img[not(contains(@class, 'flag'))]";
+        
+        if(!isFlagMode) {
+            isOpenMode=true;
+            changemode="//button//img[contains(@class,'flag')]";
+       }
+        // let isOpenMode = modeElement.classList.contains('_inactive_1ps9r_34');
+        let changemodemodeResult = document.evaluate(changemode, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+        let changemodemodeElement = changemodemodeResult.singleNodeValue;
+        let needsModeChange = false;
+        // Xác định xem có cần chuyển đổi chế độ không
+        if ((action === "safe" && isFlagMode)||(action === "random" && isFlagMode) || (action === "bombs" && isOpenMode)) {
+            needsModeChange = true;
+            changemodemodeElement.click(); // Chuyển đổi chế độ
+        }
+
+        // Nếu cần chuyển chế độ, chờ 1 giây trước khi click vào ô
+        if (needsModeChange) {
+            setTimeout(() => {
+                clickField(position);
+            }, getramdon(2000,4000));
+        } else {
+            // Nếu không cần chuyển chế độ, click ngay vào ô
+            clickField(position);
+        }
+    }
+}
+
+// Hàm thực hiện click vào ô theo vị trí
+function clickField(position) {
+    // XPath để tìm ô tương ứng với vị trí (thứ tự từ 1 tới 54)
+    let fieldXPath = `//div[contains(@class, '_field_')][${position}]`;
+    let fieldResult = document.evaluate(fieldXPath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null);
+    let fieldElement = fieldResult.singleNodeValue;
+
+    // Nếu tìm thấy ô, thực hiện click
+    if (fieldElement) {
+        fieldElement.click(); // Click vào ô theo vị trí
+    }
+
+    // Chờ 1 giây để xử lý chuỗi tiếp theo
+    setTimeout(() => {
+        console.log("Waiting for the next string...");
+        // Có thể thêm logic để nhận chuỗi tiếp theo ở đây
+    },getramdon(2000,4000));
+  
+}
+function getramdon(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+}
+
+

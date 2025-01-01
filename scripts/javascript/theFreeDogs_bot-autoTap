@@ -1,0 +1,80 @@
+let maxWaitTime = 10000; // Thời gian tối đa 10 giây
+let clickIntervalTime = 100; // Thời gian mỗi lượt click là 100ms
+let checkInterval = 1000; // Kiểm tra mỗi giây
+let initialTapCount = 0; // Lưu số lượt tap ban đầu
+let clickMade = false; // Biến đánh dấu nếu đã click
+let clickInterval; // Biến lưu trữ interval cho click
+let checkingInterval; // Biến lưu trữ interval cho kiểm tra
+let elapsedTime = 0; // Thời gian đã trôi qua
+
+// Hàm để kiểm tra số lượt tap
+function checkTapCount() {
+    let xpath = "//div[contains(@class, 'tap-bottom Slide-in-left')]";
+    let element = document.evaluate(xpath, document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+    let textContent;
+
+    if (element) {
+        // Lấy văn bản từ thẻ
+        textContent = element.textContent.trim();
+    } else {
+        // Nếu không tìm thấy, giả định giá trị
+        textContent = "Daily Left : 52 / 10,000 0 / 500";
+    }
+
+    console.log(textContent);
+
+    // Chia chuỗi dựa trên khoảng trắng
+    let parts = textContent.split(' ');
+
+    // Tìm số trước dấu '/' cuối cùng
+    let tapCountPart = parts[parts.length - 3]; // "0 / 500"
+    let tapElement = tapCountPart.trim(); // Lấy số trước
+
+    console.log(tapElement);
+    if (tapElement) {
+        let currentTapCount = parseInt(tapElement);
+
+        // Kiểm tra nếu không có lượt tap thay đổi
+        if (currentTapCount === initialTapCount) {
+            elapsedTime += checkInterval; // Cập nhật thời gian đã trôi qua
+            if (elapsedTime >= maxWaitTime) {
+                clearInterval(checkingInterval);
+                clearInterval(clickInterval);
+                console.log("Lỗi: Không có lượt click nào thay đổi trong 10 giây.");
+                return;
+            }
+        } else {
+            // Reset thời gian nếu có sự thay đổi
+            elapsedTime = 0;
+            initialTapCount = currentTapCount; // Cập nhật số lượt tap
+        }
+
+        // Nếu số lượt tap lớn hơn 100 và chưa click
+        if (initialTapCount > 50 && !clickMade) {
+            clickMade = true; // Đánh dấu đã click
+            let coinElement = document.evaluate("//div[contains(@class, 'tap-coin-bigCoin')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+            if (coinElement) {
+                clickInterval = setInterval(() => {
+                    coinElement.click();
+                    console.log("Đã click vào thẻ coin.");
+                }, clickIntervalTime);
+            }
+        } else if (initialTapCount <= 20) {
+            console.log("Đã click xong.");
+            clearInterval(checkingInterval);
+            clearInterval(clickInterval);
+        }
+    } else {
+        console.log("Không tìm thấy thẻ tap.");
+        clearInterval(checkingInterval);
+    }
+}
+
+// Bắt đầu kiểm tra
+checkingInterval = setInterval(checkTapCount, checkInterval);
+
+// Lấy số lượt tap ban đầu
+let initialTapElement = document.evaluate("//div[contains(@class, 'tap-bottom Slide-in-left')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+if (initialTapElement) {
+    initialTapCount = parseInt(initialTapElement.textContent.split('/')[1].trim()) || 0; // Lấy số lượt tap chính xác
+}
