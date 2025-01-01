@@ -4,4 +4,5 @@ node_modules/
 # Bỏ qua file tạm thời
 *.log
 *.tmp
+.env
 pushToGit.cmd
