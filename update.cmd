@@ -29,6 +29,5 @@ if exist "%TEMP_CMD%" (
     copy /y "%~dp0update.cmd" "%CURRENT_CMD%" >nul
     del "%TEMP_CMD%" >nul
 )
-echo Update completed! mèn đét ơi chờ xíu...
 echo Mèn Đét Ơi Update ok rồi
 pause
