@@ -1,1 +1,765 @@
-function a21_0x1990(){const _0x3dc083=['CloseGame','][timGame][TatGame]Không\x20click\x20được\x20vào\x20CloseGame','BackArrow','][timGame][gui]\x20Đã\x20thử\x20','][clickM][Lỗi]:\x20','4BdElOF','tagGame3','][timGame][checkLoadGame]\x20Không\x20mở\x20tab\x20mới','1786590JraiZa','\x20lần\x20nhưng\x20vẫn\x20còn\x20game\x20mở','][checkFirstStart]Click\x20vào\x20LinkRef\x20ok','Không\x20tìm\x20thấy\x20nút\x20mở\x20game','name','][checkFirstStart]\x20Click\x20ChatInput\x20OK','][timGame]\x20Tìm\x20thấy\x20nút\x20BackArrow','][reCheckClickStart]Click\x20SearchRes\x20OK','\x27])[last()]','3006846SpYXCq','][timGame][launchConfirm]click\x20LaunchConfirm\x20OK','tagGame1','][timGame][closeAnyway]Không\x20tìm\x20thấy\x20closeAnyway','openUrl','][reCheckClickStart]Không\x20type\x20được\x20vào\x20InputSearch','][checkFirstStart]Không\x20click\x20được\x20vào\x20InputSearch','][timGame][closeAnyway]Tìm\x20thấy\x20closeAnyway','867866niAhJP','32931ByrjEI','][clickLinkRef]Không\x20tìm\x20thấy\x20LinkRef\x20','ref','message','getCurrentPage','][checkFirstStart]Không\x20click\x20được\x20vào\x20BtnSend','][timGame][checkLoadGame]\x20Lần\x20kiểm\x20tra\x20thứ\x20','][checkFirstStart]Type\x20vào\x20InputSearch\x20OK\x20\x27Saved\x20Messages\x27','][timGame]\x20click\x20nút\x20sideBarRightClose\x20ok','][timGame]Không\x20click\x20được\x20vào\x20inputsearch','typeText','Không\x20tìm\x20thấy\x20CloseGame','][timGame][checkLoadGame]\x20Không\x20lấy\x20page\x20mới','][timGame][TatGame]Vào\x20tắt\x20game\x20lần:','][timGame][checkLoadGame]\x20Mở\x20link\x20iframe\x20OK','][timGame][checkLoadGame]tìm\x20thấy\x20iframe\x20link','16yzvVwo','Không\x20tắt\x20được\x20game','sideBarRightClose','Không\x20click\x20được\x20vào\x20','getAttributeFromXPath','][dbClickM][Lỗi]:\x20','][checkFirstStart]\x20Tìm\x20thấy\x20InputSearch','][reCheckClickStart]Không\x20click\x20được\x20vào\x20InputSearch','Không\x20nhập\x20được\x20vào\x20inputsearch','][checkFirstStart]Không\x20tìm\x20thấy\x20InputSearch','][checkFirstStart]Không\x20tìm\x20thấy\x20SearchRes','][timGame][checkStartGame]\x20Chưa\x20load\x20được\x20game:\x20','][checkFirstStart]Không\x20type\x20được\x20vào\x20InputSearch','\x20OK','][timGame][ShowInputSearch]\x20click\x20nút\x20BackArrow\x20ok','][timGame][checkLoadGame]\x20popup\x20mode','tagGame2','][reCheckClickStart][Lỗi]:\x20','Không\x20load\x20game\x20được','][timGame]Gui','Không\x20start\x20game\x20được','][checkFirstStart]Click\x20SearchRes\x20OK','][timGame][TatGame]Phát\x20hiện\x20game\x20đang\x20mở\x20không\x20tắt\x20được','][timGame][ShowInputSearch]tìm\x20thấy\x20inputsearch','Không\x20mở\x20tab\x20mới','][reCheckClickStart]\x20Click\x20start\x20OK','][timGame][gui][Lỗi]:\x20','Không\x20load\x20được\x20game','ButtonTextMining','][timGame]Tìm\x20thấy\x20SearchRes\x20ok','ButtonTextClaim','hostname','][timGame][checkLoadGame]\x20Không\x20load\x20được\x20game\x20sau\x20','Iframe','][timGame][checkFirstStart]\x20Game\x20mới\x20nè\x20bro','][reCheckClickStart]Không\x20click\x20được\x20vào\x20nút\x20start','InputSearch','][timGame]\x20click\x20SearchRes\x20ok','][checkFirstStart]Không\x20Tìm\x20thấy\x20link\x20ref','][timGame][ShowInputSearch]\x20Tìm\x20thấy\x20nút\x20sideBarRightClose','][timGame][ShowInputSearch]\x20ShowInputSearch','][clickM]Không\x20click\x20được\x20vào\x20','ChatInput','][checkFirstStart]\x20Tìm\x20thấy\x20SearchRes','FirstStartBtn','][timGame][gui]Vào\x20Gui\x20mở\x20game\x20lên','][timGame][ShowInputSearch]\x20Không\x20tìm\x20thấy\x20nút\x20sideBarRightClose','][timGame][launchConfirm]check\x20launchConfirm','][timGame]check\x20tắt\x20game\x20đang\x20mở','][dbclick]dbclick\x20','mainFrame','][clickLinkRef]Không\x20click\x20được\x20vào\x20LinkRef','][timGame][gui]Check\x20start\x20Game\x20mới\x20ok\x20,\x20loop\x20lại\x20game\x20nè\x20bro','][timGame][gui]start\x20game\x20ok','../modules/logger','][click][Lỗi]:\x20','][timGame]Không\x20click\x20được\x20vào\x20SearchRes','Không\x20tìm\x20thấy\x20iframe\x20link','][timGame]NoGui','length','][timGame][ShowInputSearch][Lỗi]:\x20','][timGame][ShowInputSearch]Không\x20click\x20được\x20vào\x20inputsearch','][timGame][checkStartGame]\x20Không\x20tìm\x20thấy\x20nút\x20mở\x20game','ButtonTextLaunch','][timGame][TatGame]click\x20CloseGame\x20OK','][timGame][checkLoadGame]\x20Chưa\x20load\x20được\x20game','Không\x20click\x20được\x20vào\x20inputsearch','LaunchConfirm','][timGame][gui]Không\x20start\x20game\x20được','][timGame]Không\x20nhập\x20được\x20vào\x20inputsearch','][timGame][gui]Đang\x20có\x20game\x20mở','][timGame]\x20click\x20nút\x20BackArrow\x20ok','][timGame][checkLoadGame]\x20Game\x20đã\x20sẵn\x20sàng\x20với\x20tag\x20','1881CPuAdm','][timGame]\x20Không\x20tìm\x20thấy\x20nút\x20BackArrow','][checkFirstStart]\x20Click\x20BtnSend\x20OK','][dbClickM]Không\x20click\x20được\x20vào\x20','][dbClickM]Click\x20','SearchRes','elementExistsByXPath','Không\x20tìm\x20thấy\x20SearchRes','][timGame][checkFirstStart]\x20Không\x20thấy\x20inputSearch','][reCheckClickStart]Click\x20InputSearch\x20OK','][clickLinkRef]\x20Click\x20launchConfirm\x20OK','ButtonInChat','][checkFirstStart]\x20Tìm\x20thấy\x20ChatInput','][click]Click\x20','][timGame]Tìm\x20Game','][clickLinkRef][Lỗi]:\x20','BtnSend','1KIkvZG','][timGame]\x20nhập\x20','][timGame][checkLoadGame]\x20Không\x20tìm\x20thấy\x20iframe','][timGame][launchConfirm][Lỗi]:\x20','][timGame][ShowInputSearch]\x20click\x20inputsearch\x20ok','newTab','][timGame][checkStartGame]\x20Click\x20','loop','ButtonTextPlay','][timGame][gui]TatGame\x20ok','][timGame]\x20Không\x20click\x20được\x20vào\x20nút\x20BackArrow','][reCheckClickStart]Không\x20tìm\x20thấy\x20InputSearch','][clickLinkRef]tìm\x20thấy\x20LinkRef','Không\x20click\x20được\x20vào\x20SearchRes','Không\x20lấy\x20page\x20mới','exports','][timGame][checkLoadGame]\x20Đang\x20kiểm\x20tra\x20tải\x20game','playtag','][timGame][ShowInputSearch]\x20Không\x20tìm\x20thấy\x20nút\x20BackArrow','][reCheckClickStart]\x20Tìm\x20thấy\x20SearchRes','click','][clickLinkRef]Không\x20click\x20được\x20vào\x20launchConfirm','549283hUVxTo','][checkFirstStart]Không\x20type\x20được\x20vào\x20ChatInput','ForceClosePopup','tagGame4','Không\x20click\x20được\x20vào\x20ForceClosePopup','19510MrJArs','][click]Không\x20click\x20được\x20vào\x20','\x20lần\x20thử','][timGame][TatGame][Lỗi]:\x20','MainOpenButton','][checkFirstStart]Type\x20vào\x20ChatInput\x20OK\x20','][timGame][launchConfirm]Không\x20tìm\x20thấy\x20launchConfirm','][timGame][checkLoadGame]\x20Không\x20tìm\x20thấy\x20iframe\x20link','ButtonTextStart','\x20ok','][timGame]Vào\x20Tìm\x20game\x20','31895yQSqJf','][timGame][closeAnyway]check\x20close\x20anyway','][checkFirstStart]click\x20link\x20ref\x20ok','][timGame]Không\x20tìm\x20thấy\x20SearchRes','xpath','][timGame][checkStartGame]\x20','][timGame][checkLoadGame]newTab\x20mode','timeout','][timGame][TatGame]Tắt\x20game\x20OK','][checkFirstStart]Không\x20click\x20được\x20vào\x20SearchRes','][timGame]\x20Tìm\x20thấy\x20nút\x20sideBarRightClose','][timGame][checkFirstStart]\x20Chạy\x20ref\x20để\x20vào\x20game','][timGame]tìm\x20thấy\x20inputsearch','switchFrame'];a21_0x1990=function(){return _0x3dc083;};return a21_0x1990();}const a21_0x579755=a21_0x4401;function a21_0x4401(_0x4053a3,_0x86ab03){const _0x19901d=a21_0x1990();return a21_0x4401=function(_0x4401ae,_0x3a7296){_0x4401ae=_0x4401ae-0x182;let _0x4f0065=_0x19901d[_0x4401ae];return _0x4f0065;},a21_0x4401(_0x4053a3,_0x86ab03);}(function(_0x59eb06,_0x2d8761){const _0x22bb49=a21_0x4401,_0x360866=_0x59eb06();while(!![]){try{const _0x5d5292=parseInt(_0x22bb49(0x20a))/0x1*(parseInt(_0x22bb49(0x19f))/0x2)+parseInt(_0x22bb49(0x1a0))/0x3+parseInt(_0x22bb49(0x18b))/0x4*(-parseInt(_0x22bb49(0x230))/0x5)+parseInt(_0x22bb49(0x18e))/0x6+parseInt(_0x22bb49(0x220))/0x7*(parseInt(_0x22bb49(0x1b0))/0x8)+-parseInt(_0x22bb49(0x197))/0x9+parseInt(_0x22bb49(0x225))/0xa*(-parseInt(_0x22bb49(0x1f9))/0xb);if(_0x5d5292===_0x2d8761)break;else _0x360866['push'](_0x360866['shift']());}catch(_0x5c56ee){_0x360866['push'](_0x360866['shift']());}}}(a21_0x1990,0x370ef),module[a21_0x579755(0x219)]=async function(_0x135c49,_0x16d90b){const _0x1997c4=a21_0x579755,{log:_0x4b24d3,json:_0x360658}=require(_0x1997c4(0x1e6)),{firstPage:_0x9d677b,bot:_0x29915c,profileNameId:_0x241cb3,getAks:_0x112913,genlogin:_0x272731,http:_0x48c29e,browser:_0x3fa95b}=_0x135c49;let _0x412aec=_0x9d677b;const _0x37adfc=_0x29915c['name'];let _0x1317e6=0x0,_0x2a9112=null;try{_0x4b24d3('['+_0x241cb3+_0x1997c4(0x207),null,'i','=');if(_0x16d90b['aborted'])throw new Error(_0x1997c4(0x237));_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1e0),null,'i');let _0x440d40=0x0;const _0x54c95f=0x5;while(_0x440d40<_0x54c95f){_0x440d40++;const _0x5e7c27=await _0x272731[_0x1997c4(0x1ff)](_0x412aec,_0x112913[_0x1997c4(0x1d1)],0x3e8);if(_0x5e7c27){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1f6),null,'w'),await _0x54e4a5(0x3e8);const _0x36309e=await _0x29e05d();if(!_0x36309e)throw new Error('Không\x20tắt\x20được\x20game');_0x4b24d3('['+_0x241cb3+_0x1997c4(0x213));}else break;}if(_0x440d40===_0x54c95f){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x189)+_0x54c95f+_0x1997c4(0x18f),null,![]);throw new Error(_0x1997c4(0x1b1));}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x22f)+_0x37adfc,null,'i'),await _0x54e4a5(0x3e8);let _0x47d966=0x0;const _0x48c1da=0xa;while(_0x47d966<_0x48c1da){_0x47d966++;const _0x45ee8d=await _0x272731[_0x1997c4(0x1ff)](_0x412aec,_0x112913['sideBarRightClose'],0x3e8);if(!_0x45ee8d)_0x4b24d3('['+_0x241cb3+'][timGame]\x20Không\x20tìm\x20thấy\x20nút\x20sideBarRightClose',null,![]);else{_0x4b24d3('['+_0x241cb3+_0x1997c4(0x182));const _0x3289b7=await _0x9835f(_0x112913[_0x1997c4(0x1b2)]);if(!_0x3289b7){_0x4b24d3('['+_0x241cb3+'][timGame]\x20Không\x20click\x20được\x20vào\x20nút\x20sideBarRightClose',![]);continue;}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1a8)),await _0x54e4a5(0x3e8);continue;}const _0x13d580=await _0x272731[_0x1997c4(0x1ff)](_0x412aec,_0x112913[_0x1997c4(0x188)],0x3e8);if(!_0x13d580)_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1fa),null,![]);else{_0x4b24d3('['+_0x241cb3+_0x1997c4(0x194));const _0x527713=await _0x9835f(_0x112913[_0x1997c4(0x188)]);if(!_0x527713){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x214),null,![]);continue;}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1f7)),await _0x54e4a5(0x3e8);continue;}const _0x1c3b68=await _0x272731[_0x1997c4(0x1ff)](_0x412aec,_0x112913[_0x1997c4(0x1d4)],0x3e8);if(_0x1c3b68){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x184),null);break;}}const _0x382c32=await _0xdfc075(_0x112913['InputSearch']);if(!_0x382c32){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1a9),![]);throw new Error(_0x1997c4(0x1f2));}_0x4b24d3('['+_0x241cb3+'][timGame]\x20click\x20inputsearch\x20ok'),await _0x54e4a5(0x3e8);const _0x402b70=await _0x272731[_0x1997c4(0x1aa)](_0x412aec,_0x112913[_0x1997c4(0x1d4)],_0x37adfc);await _0x54e4a5(0x3e8);if(!_0x402b70){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1f5),![]);throw new Error(_0x1997c4(0x1b8));}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x20b)+_0x37adfc+_0x1997c4(0x22e)),await _0x54e4a5(0x1388);const _0x188533=await _0x272731[_0x1997c4(0x1ff)](_0x412aec,_0x112913[_0x1997c4(0x1fe)]);if(!_0x188533){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x233),![]);throw new Error(_0x1997c4(0x200));}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1cd)),await _0x54e4a5(0x3e8);const _0x570ca3=await _0x9835f(_0x112913[_0x1997c4(0x1fe)]);if(!_0x570ca3){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1e8),![]);throw new Error(_0x1997c4(0x217));}_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1d5));if(_0x29915c['gui']==='1'){_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1c3)),await _0x54e4a5(0x3e8);const _0x9f37c4=await _0x6b9580();if(!_0x9f37c4)throw new Error('Không\x20check\x20gui\x20được');if(_0x9f37c4===_0x1997c4(0x211))return _0x4b24d3('['+_0x241cb3+'][timGame]Gui\x20ok,\x20loop\x20lại\x20game\x20nè\x20bro'),{'status':'loop'};return await _0x54e4a5(0x3e8),_0x4b24d3('['+_0x241cb3+'][timGame]Gui\x20ok'),{'status':!![],'HostName':_0x2a9112};}else return await _0x54e4a5(0x3e8),_0x4b24d3('['+_0x241cb3+_0x1997c4(0x1ea),null,![]),{'status':!![]};}catch(_0x57f605){return _0x4b24d3('['+_0x241cb3+'][timGame][Lỗi]1:\x20'+_0x57f605,null,![]),{'status':![]};}async function _0x6b9580(){const _0x5355c2=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0x5355c2(0x1dd),null,'i'),await _0x54e4a5(0x3e8);const _0x375e44=await _0x1fc4c6();if(_0x375e44===_0x5355c2(0x211))return _0x4b24d3('['+_0x241cb3+_0x5355c2(0x1e4)),_0x5355c2(0x211);await _0x54e4a5(0x3e8);const _0x26b065=await _0x12b505();if(!_0x26b065){_0x4b24d3('['+_0x241cb3+_0x5355c2(0x1f4),![]);throw new Error(_0x5355c2(0x1c4));}await _0x54e4a5(0x1388);const _0x19fba7=await _0x4e270d();if(!_0x19fba7){_0x4b24d3('['+_0x241cb3+'][timGame][gui]Không\x20load\x20game\x20được',![]);throw new Error(_0x5355c2(0x1c2));}return await _0x54e4a5(0x3e8),_0x4b24d3('['+_0x241cb3+_0x5355c2(0x1e5)),!![];}catch(_0x3179d1){return _0x4b24d3('['+_0x241cb3+_0x5355c2(0x1ca)+_0x3179d1,![]),null;}}async function _0x29e05d(){const _0x2953f4=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0x2953f4(0x1ad)+_0x1317e6);const _0x1af32f=await _0x272731[_0x2953f4(0x1ff)](_0x412aec,_0x112913[_0x2953f4(0x186)],0x3e8);if(!_0x1af32f){await _0x54e4a5(0x3e8);const _0x480365=await _0x272731[_0x2953f4(0x1ff)](_0x412aec,_0x112913['Iframe'],0x3e8);if(_0x480365){_0x4b24d3('['+_0x241cb3+_0x2953f4(0x1c6));throw new Error(_0x2953f4(0x1ab));}return _0x4b24d3('['+_0x241cb3+_0x2953f4(0x238)),!![];}const _0x2e28de=await _0x9835f(_0x112913[_0x2953f4(0x186)]);!_0x2e28de&&_0x4b24d3('['+_0x241cb3+_0x2953f4(0x187),null,![]);_0x4b24d3('['+_0x241cb3+_0x2953f4(0x1f0)),await _0x54e4a5(0x7d0);const _0x44ae1d=await _0x288bf3();return!_0x44ae1d&&_0x4b24d3('['+_0x241cb3+'][timGame][TatGame]Không\x20tắt\x20được\x20game\x20closeAnyway\x20failed',![]),!![];}catch(_0x58674c){return _0x4b24d3('['+_0x241cb3+_0x2953f4(0x228)+_0x58674c,![]),null;}}async function _0x288bf3(){const _0x5bc7a1=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0x5bc7a1(0x231));const _0x10d02f=await _0x272731[_0x5bc7a1(0x1ff)](_0x412aec,_0x112913[_0x5bc7a1(0x222)],0x1388);if(!_0x10d02f)return _0x4b24d3('['+_0x241cb3+_0x5bc7a1(0x19a),![]),!![];_0x4b24d3('['+_0x241cb3+_0x5bc7a1(0x19e)),await _0x54e4a5(0x7d0);const _0xce4b0a=await _0x9835f(_0x112913[_0x5bc7a1(0x222)]);if(!_0xce4b0a)throw new Error(_0x5bc7a1(0x224));return _0x4b24d3('['+_0x241cb3+'][timGame][closeAnyway]click\x20ForceClosePopup\x20OK'),await _0x54e4a5(0x7d0),!![];}catch(_0x750344){return _0x4b24d3('['+_0x241cb3+'][timGame][closeAnyway][Lỗi]:\x20'+_0x750344,![]),null;}}async function _0x1152e1(){const _0x4133b4=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0x4133b4(0x1df));const _0x1890b9=await _0x272731[_0x4133b4(0x1ff)](_0x412aec,_0x112913['LaunchConfirm'],0xbb8);if(!_0x1890b9)return _0x4b24d3('['+_0x241cb3+_0x4133b4(0x22b),null,![]),null;_0x4b24d3('['+_0x241cb3+'][timGame][launchConfirm]Tìm\x20thấy\x20launchConfirm'),await _0x54e4a5(0x7d0);const _0x20e3d3=await _0x9835f(_0x112913[_0x4133b4(0x1f3)]);if(!_0x20e3d3)return _0x4b24d3('['+_0x241cb3+'][timGame][launchConfirm]Không\x20click\x20được\x20vào\x20launchConfirm',null,![]),null;return _0x4b24d3('['+_0x241cb3+_0x4133b4(0x198)),await _0x54e4a5(0x7d0),!![];}catch(_0x43ed31){return _0x4b24d3('['+_0x241cb3+_0x4133b4(0x20d)+_0x43ed31,![]),null;}}async function _0x12b505(){const _0x4317da=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+'][timGame][checkStartGame]\x20Bắt\x20đầu\x20kiểm\x20tra\x20Start\x20Game',null,'-');const _0x34dd83=[{'xpath':_0x29915c['playtag'],'name':_0x4317da(0x21b)},{'xpath':_0x112913[_0x4317da(0x229)],'name':'MainOpenButton'},{'xpath':_0x112913['ButtonTextPlay'],'name':_0x4317da(0x212)},{'xpath':_0x112913[_0x4317da(0x1ce)],'name':_0x4317da(0x1ce)},{'xpath':_0x112913[_0x4317da(0x22d)],'name':_0x4317da(0x22d)},{'xpath':_0x112913[_0x4317da(0x1ef)],'name':_0x4317da(0x1ef)},{'xpath':_0x112913['ButtonTextMining'],'name':_0x4317da(0x1cc)},{'xpath':_0x112913['ButtonInChat'],'name':_0x4317da(0x204)}];for(let _0x43e0db=0x0;_0x43e0db<_0x34dd83[_0x4317da(0x1eb)];_0x43e0db++){const _0x5c994b=_0x34dd83[_0x43e0db];if(!_0x5c994b[_0x4317da(0x234)])continue;const _0x25c153=await _0x272731[_0x4317da(0x1ff)](_0x412aec,_0x5c994b[_0x4317da(0x234)],0x3e8);if(_0x25c153){_0x4b24d3('['+_0x241cb3+_0x4317da(0x235)+_0x5c994b['name']+'\x20tồn\x20tại');const _0x45cd59=await _0x9835f(_0x5c994b['xpath']);if(!_0x45cd59)throw new Error(_0x4317da(0x1b3)+_0x5c994b[_0x4317da(0x192)]);return _0x4b24d3('['+_0x241cb3+_0x4317da(0x210)+_0x5c994b[_0x4317da(0x192)]+_0x4317da(0x1bd)),await _0x1152e1(),await _0x54e4a5(0x7d0),!![];}}_0x4b24d3('['+_0x241cb3+_0x4317da(0x1ee),null,![]);throw new Error(_0x4317da(0x191));}catch(_0x545a29){return _0x4b24d3('['+_0x241cb3+_0x4317da(0x1bb)+_0x545a29[_0x4317da(0x1a3)],null,![]),null;}}async function _0x4e270d(){const _0xf4b7c0=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x21a));const _0x492b5a=[_0x29915c['tagGame'],_0x29915c[_0xf4b7c0(0x199)],_0x29915c[_0xf4b7c0(0x1c0)],_0x29915c[_0xf4b7c0(0x18c)],_0x29915c[_0xf4b7c0(0x223)]];if(parseInt(_0x29915c[_0xf4b7c0(0x20f)])===0x1){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x236),null,'w','-');const _0x59661d=0x5,_0x5be4a0=await _0x272731[_0xf4b7c0(0x1b4)](_0x412aec,_0x112913[_0xf4b7c0(0x1d1)],'src',0x3e8);await _0x54e4a5(0x3e8);if(!_0x5be4a0){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x22c),null,![]);throw new Error(_0xf4b7c0(0x1e9));}_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1af));const _0xbd4b22=await _0x272731[_0xf4b7c0(0x20f)](_0x3fa95b);if(!_0xbd4b22){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x18d),null,![]);throw new Error(_0xf4b7c0(0x1c8));}_0x4b24d3('['+_0x241cb3+'][timGame][checkLoadGame]\x20Mở\x20tab\x20mới\x20OK');const _0x257f08=await _0x272731[_0xf4b7c0(0x1a4)](_0x3fa95b);if(!_0x257f08){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1ac),null,![]);throw new Error(_0xf4b7c0(0x218));}const _0x132225=new URL(_0x5be4a0);_0x2a9112=_0x132225[_0xf4b7c0(0x1cf)];const _0x3d1141=await _0x272731[_0xf4b7c0(0x19b)](_0x257f08,_0x5be4a0);if(!_0x3d1141){_0x4b24d3('['+_0x241cb3+'][timGame][checkLoadGame]\x20Không\x20mở\x20link\x20iframe',null,![]);throw new Error('Không\x20mở\x20link\x20iframe');}_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1ae)),await _0x54e4a5(0x3e8);for(let _0x229664=0x1;_0x229664<=_0x59661d;_0x229664++){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1a6)+_0x229664);for(let _0x3ab03d=0x0;_0x3ab03d<_0x492b5a['length'];_0x3ab03d++){const _0x497426=await _0x272731[_0xf4b7c0(0x1ff)](_0x257f08,_0x492b5a[_0x3ab03d],0x7d0);if(_0x497426)return _0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1f8)+_0x492b5a[_0x3ab03d],![]),await _0x54e4a5(0x3e8),!![];}_0x229664<_0x59661d&&await new Promise(_0x473223=>setTimeout(_0x473223,0x1388));}_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1d0)+_0x59661d+'\x20lần\x20thử');throw new Error('Không\x20load\x20được\x20game');}else{_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1bf),null,'w','-');const _0x17b950=0x5,_0x2a9989=await _0x272731['switchFrame'](_0x412aec,_0x112913['Iframe']);await _0x54e4a5(0x3e8);if(!_0x2a9989){_0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x20c),null,![]);throw new Error('Không\x20tìm\x20thấy\x20iframe');}for(let _0x356edc=0x1;_0x356edc<=_0x17b950;_0x356edc++){_0x4b24d3('['+_0x241cb3+'][timGame][checkLoadGame]\x20Lần\x20kiểm\x20tra\x20thứ\x20'+_0x356edc);for(let _0x357dbf=0x0;_0x357dbf<_0x492b5a[_0xf4b7c0(0x1eb)];_0x357dbf++){const _0x4a2957=await _0x272731['elementExistsByXPath'](_0x2a9989,_0x492b5a[_0x357dbf],0x7d0);if(_0x4a2957)return _0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1f8)+_0x492b5a[_0x357dbf],![]),await _0x272731['switchFrame'](_0x412aec,'mainframe'),await _0x54e4a5(0x3e8),!![];}_0x356edc<_0x17b950&&await new Promise(_0x1e766a=>setTimeout(_0x1e766a,0x1388));}_0x4b24d3('['+_0x241cb3+'][timGame][checkLoadGame]\x20Không\x20load\x20được\x20game\x20sau\x20'+_0x17b950+_0xf4b7c0(0x227));throw new Error(_0xf4b7c0(0x1cb));}}catch(_0x232f2c){return _0x4b24d3('['+_0x241cb3+_0xf4b7c0(0x1f1),null,![]),await _0x272731[_0xf4b7c0(0x185)](_0x412aec,_0xf4b7c0(0x1e2)),await _0x54e4a5(0x3e8),null;}}async function _0x1fc4c6(){const _0x3f1c56=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x11def2=await _0x272731[_0x3f1c56(0x1ff)](_0x412aec,_0x112913[_0x3f1c56(0x1dc)],0xbb8);if(!_0x11def2)return null;_0x4b24d3('['+_0x241cb3+_0x3f1c56(0x1d2),null,!![],'-'),_0x4b24d3('['+_0x241cb3+_0x3f1c56(0x183)),await _0x54e4a5(0x3e8);const _0x598e12=await _0xe4b8dd();if(!_0x598e12)return _0x4b24d3('['+_0x241cb3+_0x3f1c56(0x201),null,![]),null;await _0x54e4a5(0x3e8);const _0x10fa2f=await _0x272731[_0x3f1c56(0x1ff)](_0x412aec,_0x112913[_0x3f1c56(0x1d4)],0x7d0);if(!_0x10fa2f)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1b9),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1b6));const _0xa3a0ea=await _0xdfc075(_0x112913[_0x3f1c56(0x1d4)]);if(!_0xa3a0ea)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x19d),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][checkFirstStart]Click\x20InputSearch\x20OK'),await _0x54e4a5(0x3e8);const _0x25c9bb=await _0x272731[_0x3f1c56(0x1aa)](_0x412aec,_0x112913['InputSearch'],'Saved\x20Messages',0x1,0x7d0);if(!_0x25c9bb)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1bc),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1a7)),await _0x54e4a5(0x1388);const _0x4a3a37=await _0x272731[_0x3f1c56(0x1ff)](_0x412aec,_0x112913[_0x3f1c56(0x1fe)],0x7d0);if(!_0x4a3a37)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1ba),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1db));const _0x5aef0f=await _0x9835f(_0x112913[_0x3f1c56(0x1fe)]);if(!_0x5aef0f)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x239),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1c5)),await _0x54e4a5(0x7d0);const _0x305d6e='(//a[@class=\x27anchor-url\x27\x20and\x20@href=\x27'+_0x29915c[_0x3f1c56(0x1a2)]+_0x3f1c56(0x196),_0x3e628e=await _0x5f4b0b(_0x305d6e);if(_0x3e628e)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x232)),await _0x113a99(),_0x3f1c56(0x211);_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1d6),null,![]),await _0x54e4a5(0x7d0);const _0x1bd9d6=await _0x272731[_0x3f1c56(0x1ff)](_0x412aec,_0x112913[_0x3f1c56(0x1da)],0x7d0);if(!_0x1bd9d6)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][checkFirstStart]Không\x20tìm\x20thấy\x20ChatInput',null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x205));const _0x4d64c4=await _0xdfc075(_0x112913['ChatInput']);!_0x4d64c4?_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][checkFirstStart]Không\x20click\x20được\x20vào\x20ChatInput',null,![]):_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x193));await _0x54e4a5(0x7d0);const _0x4cf1b2=await _0x272731[_0x3f1c56(0x1aa)](_0x412aec,_0x112913[_0x3f1c56(0x1da)],_0x29915c['ref'],0x1,0x7d0);!_0x4cf1b2?_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x221),null,![]):_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x22a)+_0x29915c[_0x3f1c56(0x1a2)]);await _0x54e4a5(0x7d0);const _0x25750c=await _0x9835f(_0x112913[_0x3f1c56(0x209)]);!_0x25750c?_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1a5),null,![]):_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x1fb));await _0x54e4a5(0x7d0);const _0x243739=await _0x5f4b0b(_0x305d6e);if(_0x243739)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3f1c56(0x190)),await _0x113a99(),_0x3f1c56(0x211);return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][checkFirstStart]Không\x20Click\x20được\x20LinkRef'),null;}catch(_0x5245b4){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][checkFirstStart][Lỗi]:\x20'+_0x5245b4,null,![]),null;}}async function _0x5f4b0b(_0x22f018){const _0x24d374=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0xa28e2a=await _0x272731[_0x24d374(0x1ff)](_0x412aec,_0x22f018,0x7d0);if(_0xa28e2a){_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x216));const _0x19c625=await _0x9835f(_0x22f018);if(!_0x19c625)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x1e3),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][clickLinkRef]\x20Click\x20LinkRef\x20OK'),await _0x54e4a5(0x7d0);const _0x30e82e=await _0x1152e1();return!_0x30e82e?_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x21f),null,![]):_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x203)),_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][clickLinkRef]\x20click\x20ref\x20OK'),!![];}return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x1a1)+_0x22f018,null,![]),null;}catch(_0x5dcd34){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x24d374(0x208)+_0x5dcd34,null,![]),null;}}async function _0x113a99(){const _0x3643a9=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x56eb3d=await _0x272731[_0x3643a9(0x1ff)](_0x412aec,_0x112913[_0x3643a9(0x1d4)],0x7d0);if(!_0x56eb3d)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x215),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][reCheckClickStart]\x20Tìm\x20thấy\x20InputSearch');const _0x4d738d=await _0xdfc075(_0x112913[_0x3643a9(0x1d4)]);if(!_0x4d738d)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x1b7),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x202)),await _0x54e4a5(0x3e8);const _0x386647=await _0x272731[_0x3643a9(0x1aa)](_0x412aec,_0x112913[_0x3643a9(0x1d4)],_0x37adfc,0x1,0x7d0);if(!_0x386647)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x19c),null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][reCheckClickStart]Type\x20vào\x20InputSearch\x20OK'),await _0x54e4a5(0x1388);const _0x53c2ae=await _0x272731[_0x3643a9(0x1ff)](_0x412aec,_0x112913[_0x3643a9(0x1fe)],0x7d0);if(!_0x53c2ae)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][reCheckClickStart]Không\x20tìm\x20thấy\x20SearchRes',null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x21d));const _0x41d91a=await _0x9835f(_0x112913[_0x3643a9(0x1fe)]);if(!_0x41d91a)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][reCheckClickStart]Không\x20click\x20được\x20vào\x20SearchRes',null,![]),null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x195)),await _0x54e4a5(0x3e8);const _0x435635=await _0x272731[_0x3643a9(0x1ff)](_0x412aec,_0x112913[_0x3643a9(0x1dc)],0xbb8);if(!_0x435635)return null;_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][reCheckClickStart]\x20vẫn\x20thấy\x20nút\x20start'),await _0x54e4a5(0x3e8);const _0xadecc0=await _0x9835f(_0x112913[_0x3643a9(0x1dc)]);if(!_0xadecc0)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x1d3),null,![]),null;return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x1c9)),await _0x54e4a5(0x7d0),!![];}catch(_0x446a16){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x3643a9(0x1c1)+_0x446a16,null,![]),null;}}async function _0xe4b8dd(){const _0x58446c=_0x1997c4;try{_0x4b24d3('['+_0x241cb3+_0x58446c(0x1d8),null,!![],'-'),await _0x54e4a5(0x1f4);let _0x288cdf=0x0;const _0x585026=0xa;while(_0x288cdf<_0x585026){_0x288cdf++;const _0x486f40=await _0x272731[_0x58446c(0x1ff)](_0x412aec,_0x112913['sideBarRightClose'],0x3e8);if(!_0x486f40)_0x4b24d3('['+_0x241cb3+_0x58446c(0x1de),null,![]);else{_0x4b24d3('['+_0x241cb3+_0x58446c(0x1d7));const _0x389191=await _0x9835f(_0x112913[_0x58446c(0x1b2)]);if(!_0x389191){_0x4b24d3('['+_0x241cb3+'][timGame][ShowInputSearch]\x20Không\x20click\x20được\x20vào\x20nút\x20sideBarRightClose',![]);continue;}_0x4b24d3('['+_0x241cb3+'][timGame][ShowInputSearch]\x20click\x20nút\x20sideBarRightClose\x20ok'),await _0x54e4a5(0x3e8);continue;}const _0x2c1397=await _0x272731[_0x58446c(0x1ff)](_0x412aec,_0x112913[_0x58446c(0x188)],0x3e8);if(!_0x2c1397)_0x4b24d3('['+_0x241cb3+_0x58446c(0x21c),null,![]);else{_0x4b24d3('['+_0x241cb3+'][timGame][ShowInputSearch]\x20Tìm\x20thấy\x20nút\x20BackArrow');const _0x3a13ba=await _0x9835f(_0x112913[_0x58446c(0x188)]);if(!_0x3a13ba){_0x4b24d3('['+_0x241cb3+'][timGame][ShowInputSearch]\x20Không\x20click\x20được\x20vào\x20nút\x20BackArrow',null,![]);continue;}_0x4b24d3('['+_0x241cb3+_0x58446c(0x1be)),await _0x54e4a5(0x3e8);continue;}const _0xcc07c1=await _0x272731[_0x58446c(0x1ff)](_0x412aec,_0x112913[_0x58446c(0x1d4)],0x3e8);if(_0xcc07c1){_0x4b24d3('['+_0x241cb3+_0x58446c(0x1c7),null);break;}}const _0x3fb319=await _0xdfc075(_0x112913[_0x58446c(0x1d4)]);return!_0x3fb319?_0x4b24d3('['+_0x241cb3+_0x58446c(0x1ed),![]):_0x4b24d3('['+_0x241cb3+_0x58446c(0x20e)),!![];}catch(_0x348e77){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x58446c(0x1ec)+_0x348e77,null,![]),null;}}async function _0x38a106(_0x29112f,_0x298c15=![]){const _0x5f37b0=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x4952c6=await _0x272731[_0x5f37b0(0x21e)](subframe,{'xpath':_0x29112f,'mainframe':_0x412aec,'browser':_0x3fa95b,'dbclick':![],'tagClick':_0x298c15},0x3e8);await _0x54e4a5(0x3e8);if(!_0x4952c6)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5f37b0(0x226)+_0x29112f,null,![]),null;return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5f37b0(0x206)+_0x29112f+_0x5f37b0(0x1bd)),_0x4952c6;}catch(_0x5c5eb3){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5f37b0(0x1e7)+_0x5c5eb3,null,![]),null;}}async function _0x1bc1bf(_0x2c4a8b,_0x630916=!![]){const _0x44a273=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x375da5=await _0x272731['click'](subframe,{'xpath':_0x2c4a8b,'mainframe':_0x412aec,'browser':_0x3fa95b,'dbclick':!![],'tagClick':_0x630916},0x3e8);await _0x54e4a5(0x3e8);if(!_0x375da5)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][dbclick]Không\x20dbclick\x20được\x20vào\x20'+_0x2c4a8b,null,![]),null;return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x44a273(0x1e1)+_0x2c4a8b+_0x44a273(0x1bd)),_0x375da5;}catch(_0x5c04a3){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][dbclick][Lỗi]:\x20'+_0x5c04a3,null,![]),null;}}async function _0x9835f(_0x5b32b8,_0x41f1f8=![]){const _0x158021=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x3097fe=await _0x272731[_0x158021(0x21e)](_0x412aec,{'xpath':_0x5b32b8,'mainframe':_0x412aec,'browser':_0x3fa95b,'dbclick':![],'tagClick':_0x41f1f8},0xbb8);await _0x54e4a5(0x3e8);if(!_0x3097fe)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x158021(0x1d9)+_0x5b32b8,null,![]),null;return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][clickM]Click\x20'+_0x5b32b8+_0x158021(0x1bd)),_0x3097fe;}catch(_0x338769){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x158021(0x18a)+_0x338769,null,![]),null;}}async function _0xdfc075(_0x4adcf0,_0x127547=![]){const _0x5af6ae=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x46b0b6=await _0x272731['click'](_0x412aec,{'xpath':_0x4adcf0,'mainframe':_0x412aec,'browser':_0x3fa95b,'dbclick':!![],'tagClick':_0x127547},0x1388);await _0x54e4a5(0x3e8);if(!_0x46b0b6)return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5af6ae(0x1fc)+_0x4adcf0,null,![]),null;return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5af6ae(0x1fd)+_0x4adcf0+'\x20OK'),_0x46b0b6;}catch(_0x1558f4){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x5af6ae(0x1b5)+_0x1558f4,null,![]),null;}}async function _0x422e9f(_0x2b5124,_0x3027fe){const _0x52f157=_0x1997c4;try{await _0x54e4a5(0x3e8);const _0x40833d=await _0x272731[_0x52f157(0x21e)](_0x412aec,{'x':_0x2b5124,'y':_0x3027fe,'mainframe':_0x412aec,'browser':_0x3fa95b},0x3e8);await _0x54e4a5(0x3e8);if(!_0x40833d){_0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][click]Không\x20click\x20được\x20vào\x20tọa\x20độ\x20'+_0x2b5124+':'+_0x3027fe,![]);throw new Error('Không\x20click\x20được\x20vào\x20'+xpath);}return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+'][click]Click\x20'+_0x2b5124+':'+_0x3027fe+_0x52f157(0x1bd)),_0x40833d;}catch(_0x1811e5){return _0x4b24d3('['+_0x241cb3+']['+_0x37adfc+_0x52f157(0x1e7)+_0x1811e5,![]),null;}}async function _0x54e4a5(_0x239b0a){return new Promise(_0x48656b=>{const _0x2c96a9=a21_0x4401;if(_0x16d90b['aborted'])throw new Error(_0x2c96a9(0x237));setTimeout(_0x48656b,_0x239b0a);});}});
+module.exports = async function (context, signal) {
+    const { log, json } = require('../modules/logger');
+    // const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+    const { firstPage, bot, profileNameId, getAks, genlogin, http, browser } = context;
+    // const { signal } = context;
+    let currentPage = firstPage;
+    const botName = bot.name;
+    let demLoop = 0;
+    let iframeLinkHotsName = null;
+    try {
+        // log(`[${profileNameId}][timGame]signal ${json(signal)}`, null, 'w');
+        log(`[${profileNameId}][timGame]Tìm Game`, null, 'i', '=');
+        if (signal.aborted) {
+            throw new Error(`timeout`);
+        }
+        //TODO: check tắt game đang mở
+        log(`[${profileNameId}][timGame]check tắt game đang mở`, null, 'i');
+        let attempts = 0;
+        const maxAttempts = 5;
+        while (attempts < maxAttempts) {
+            attempts++;
+            // Kiểm tra sự tồn tại của phần tử bằng XPath
+            const kq5 = await genlogin.elementExistsByXPath(currentPage, getAks.Iframe, 1000);
+            if (kq5) {
+                log(`[${profileNameId}][timGame][gui]Đang có game mở`, null, 'w');
+                await delay(1000);
+                // Thử tắt game
+                const kq6 = await TatGame();
+                if (!kq6) {
+                    throw new Error('Không tắt được game');
+                }
+                log(`[${profileNameId}][timGame][gui]TatGame ok`);
+            } else {
+                // Dừng vòng lặp nếu không tìm thấy phần tử nữa
+                break;
+            }
+        }
+        if (attempts === maxAttempts) {
+            log(`[${profileNameId}][timGame][gui] Đã thử ${maxAttempts} lần nhưng vẫn còn game mở`, null, false);
+            throw new Error('Không tắt được game');
+        }
+        log(`[${profileNameId}][timGame]Vào Tìm game ${botName}`, null, 'i');
+        // TODO: Kiểm tra xem inputsearch co existence  
+        await delay(1000);
+        let demLoop = 0;
+        const maxDemLoop = 10;
+        while (demLoop < maxDemLoop) {
+            demLoop++;
+            //TODO: Check Nút back để hiện ô tìm kiếm
+            const kqCkSideBarRightClose = await genlogin.elementExistsByXPath(currentPage, getAks.sideBarRightClose, 1000);
+            if (!kqCkSideBarRightClose) {
+                log(`[${profileNameId}][timGame] Không tìm thấy nút sideBarRightClose`, null, false);
+            }
+            else {
+                log(`[${profileNameId}][timGame] Tìm thấy nút sideBarRightClose`);
+                const kqClickSideBarRightClose = await clickM(getAks.sideBarRightClose);
+                if (!kqClickSideBarRightClose) {
+                    log(`[${profileNameId}][timGame] Không click được vào nút sideBarRightClose`, false);
+                    // throw new Error('Không click được vào nút sideBarRightClose');
+                    continue;
+                }
+                log(`[${profileNameId}][timGame] click nút sideBarRightClose ok`);
+                await delay(1000);
+                continue;
+            }
+            //TODO: Check Nút back để hiện ô tìm kiếm
+            const kqCkBackArrow = await genlogin.elementExistsByXPath(currentPage, getAks.BackArrow, 1000);
+            if (!kqCkBackArrow) {
+                log(`[${profileNameId}][timGame] Không tìm thấy nút BackArrow`, null, false);
+            }
+            else {
+                log(`[${profileNameId}][timGame] Tìm thấy nút BackArrow`);
+                const kqClickBackArrow = await clickM(getAks.BackArrow);
+                if (!kqClickBackArrow) {
+                    log(`[${profileNameId}][timGame] Không click được vào nút BackArrow`, null, false);
+                    // throw new Error('Không click được vào nút BackArrow');
+                    continue;
+                }
+                log(`[${profileNameId}][timGame] click nút BackArrow ok`);
+                await delay(1000);
+                continue;
+            }
+            const inputsearch = await genlogin.elementExistsByXPath(currentPage, getAks.InputSearch, 1000);
+            if (inputsearch) {
+                log(`[${profileNameId}][timGame]tìm thấy inputsearch`, null);
+                break;
+            }
+        }
+        // const inputsearch = await genlogin.elementExistsByXPath(currentPage, getAks.InputSearch, 5000);
+        // if (!inputsearch) {
+        //     log(`[${profileNameId}][timGame]Không tìm thấy inputsearch`, null, false);
+        //     throw new Error('Không tìm thấy inputsearch');
+        // }
+        // log(`[${profileNameId}][timGame] Tìm thấy inputsearch ok`);
+        // TODO: Click vào inputsearch
+        const kq = await dbClickM(getAks.InputSearch);
+        if (!kq) {
+            log(`[${profileNameId}][timGame]Không click được vào inputsearch`, false);
+            throw new Error('Không click được vào inputsearch');
+        }
+        log(`[${profileNameId}][timGame] click inputsearch ok`);
+        await delay(1000);
+        // TODO: Type search
+        const kq2 = await genlogin.typeText(currentPage, getAks.InputSearch, botName);
+        await delay(1000);
+        if (!kq2) {
+            log(`[${profileNameId}][timGame]Không nhập được vào inputsearch`, false);
+            throw new Error('Không nhập được vào inputsearch');
+        }
+        log(`[${profileNameId}][timGame] nhập ${botName} ok`);
+        await delay(5000);
+        // TODO: Kiểm tra xem SearchRes có tồn tại không
+        const kq3 = await genlogin.elementExistsByXPath(currentPage, getAks.SearchRes);
+        if (!kq3) {
+            log(`[${profileNameId}][timGame]Không tìm thấy SearchRes`, false);
+            throw new Error('Không tìm thấy SearchRes');
+        }
+        log(`[${profileNameId}][timGame]Tìm thấy SearchRes ok`);
+        await delay(1000);
+        // TODO: Click vào SearchRes
+        const kq4 = await clickM(getAks.SearchRes);
+        if (!kq4) {
+            log(`[${profileNameId}][timGame]Không click được vào SearchRes`, false);
+            throw new Error('Không click được vào SearchRes');
+        }
+        log(`[${profileNameId}][timGame] click SearchRes ok`);
+        // TODO: Check game có Gui hay không
+        if (bot.gui === "1") {
+            log(`[${profileNameId}][timGame]Gui`);
+            await delay(1000);
+            const kq10 = await gui();
+            if (!kq10) {
+                throw new Error('Không check gui được');
+            }
+            if (kq10 === 'loop') {
+                log(`[${profileNameId}][timGame]Gui ok, loop lại game nè bro`);
+                return { status: 'loop' };
+            }
+            await delay(1000);
+            log(`[${profileNameId}][timGame]Gui ok`);
+            return { status: true, HostName: iframeLinkHotsName };
+
+        }
+        else {
+            await delay(1000);
+            log(`[${profileNameId}][timGame]NoGui`, null, false);
+            return { status: true };
+        }
+
+    } catch (error) {
+        log(`[${profileNameId}][timGame][Lỗi]1: ${error}`, null, false);
+        return { status: false };
+    }
+    async function gui() {
+        try {
+            log(`[${profileNameId}][timGame][gui]Vào Gui mở game lên`, null, 'i');
+            // TODO: Kiểm tra xem BackInPopup có tồn tại không
+
+            await delay(1000);
+            //TODO: Check first start
+            const kqFirstStart = await checkFirstStart();
+            if (kqFirstStart === 'loop') {
+                log(`[${profileNameId}][timGame][gui]Check start Game mới ok , loop lại game nè bro`);
+                return 'loop';
+            }
+            // if (!kqFirstStart) {
+            //     log(`[${profileNameId}][timGame][gui]Game đã chơi rồi bro`,null, false);
+            // }
+            await delay(1000);
+            //TODO: Check game đã đăng nhập
+            //TODO: Check start game
+            const kq20 = await checkStartGame();
+            if (!kq20) {
+                log(`[${profileNameId}][timGame][gui]Không start game được`, false);
+                throw new Error('Không start game được');
+            }
+            await delay(5000);
+            const kq21 = await checkLoadGame();
+            if (!kq21) {
+                log(`[${profileNameId}][timGame][gui]Không load game được`, false);
+                throw new Error('Không load game được');
+            }
+            await delay(1000);
+            log(`[${profileNameId}][timGame][gui]start game ok`);
+            return true;
+        } catch (error) {
+            log(`[${profileNameId}][timGame][gui][Lỗi]: ${error}`, false);
+            return null;
+        }
+    }
+    async function TatGame() {
+        try {
+
+            log(`[${profileNameId}][timGame][TatGame]Vào tắt game lần:${demLoop}`);
+            // TODO: check nút close game
+            const kq7 = await genlogin.elementExistsByXPath(currentPage, getAks.CloseGame, 1000);
+            if (!kq7) {
+                await delay(1000);
+                const kq9 = await genlogin.elementExistsByXPath(currentPage, getAks.Iframe, 1000);
+                if (kq9) {
+                    log(`[${profileNameId}][timGame][TatGame]Phát hiện game đang mở không tắt được`);
+                    throw new Error('Không tìm thấy CloseGame');
+                }
+                log(`[${profileNameId}][timGame][TatGame]Tắt game OK`);
+                return true;
+            }
+            // TODO: click close game
+            const kq8 = await clickM(getAks.CloseGame);
+            if (!kq8) {
+                log(`[${profileNameId}][timGame][TatGame]Không click được vào CloseGame`, null, false);
+            }
+            log(`[${profileNameId}][timGame][TatGame]click CloseGame OK`);
+            await delay(2000);
+            const kq11 = await closeAnyway();
+            if (!kq11) {
+                log(`[${profileNameId}][timGame][TatGame]Không tắt được game closeAnyway failed`, false);
+            }
+            return true;
+
+        } catch (error) {
+            log(`[${profileNameId}][timGame][TatGame][Lỗi]: ${error}`, false);
+            return null;
+        }
+    }
+    async function closeAnyway() {
+        try {
+            log(`[${profileNameId}][timGame][closeAnyway]check close anyway`);
+            // TODO: Kiểm tra xem closeAnyway có tồn tại không
+            const kq10 = await genlogin.elementExistsByXPath(currentPage, getAks.ForceClosePopup, 5000);
+            if (!kq10) {
+                log(`[${profileNameId}][timGame][closeAnyway]Không tìm thấy closeAnyway`, false);
+                return true;
+            }
+            log(`[${profileNameId}][timGame][closeAnyway]Tìm thấy closeAnyway`);
+            await delay(2000);
+            // TODO: click close anyway
+            const kq11 = await clickM(getAks.ForceClosePopup);
+            if (!kq11) {
+                throw new Error('Không click được vào ForceClosePopup');
+            }
+            log(`[${profileNameId}][timGame][closeAnyway]click ForceClosePopup OK`);
+            await delay(2000);
+            return true;
+        } catch (error) {
+            log(`[${profileNameId}][timGame][closeAnyway][Lỗi]: ${error}`, false);
+            return null;
+        }
+    }
+    async function launchConfirm() {
+        try {
+            log(`[${profileNameId}][timGame][launchConfirm]check launchConfirm`);
+            // TODO: Kiểm tra xem launchConfirm có tồn tại không
+            const kq10 = await genlogin.elementExistsByXPath(currentPage, getAks.LaunchConfirm, 3000);
+            if (!kq10) {
+                log(`[${profileNameId}][timGame][launchConfirm]Không tìm thấy launchConfirm`, null, false);
+                return null;
+            }
+
+            log(`[${profileNameId}][timGame][launchConfirm]Tìm thấy launchConfirm`);
+            await delay(2000);
+            // TODO: click launchConfirm
+            const kq11 = await clickM(getAks.LaunchConfirm);
+            if (!kq11) {
+                log(`[${profileNameId}][timGame][launchConfirm]Không click được vào launchConfirm`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][timGame][launchConfirm]click LaunchConfirm OK`);
+            await delay(2000);
+            return true;
+        } catch (error) {
+            log(`[${profileNameId}][timGame][launchConfirm][Lỗi]: ${error}`, false);
+            return null;
+        }
+    }
+    async function checkStartGame() {
+        try {
+            log(`[${profileNameId}][timGame][checkStartGame] Bắt đầu kiểm tra Start Game`, null, '-');
+
+            // Danh sách các button cần kiểm tra theo thứ tự ưu tiên
+            const buttons = [
+                { xpath: bot.playtag, name: "playtag" },
+                { xpath: getAks.MainOpenButton, name: "MainOpenButton" },
+                { xpath: getAks.ButtonTextPlay, name: "ButtonTextPlay" },
+                { xpath: getAks.ButtonTextClaim, name: "ButtonTextClaim" },
+                { xpath: getAks.ButtonTextStart, name: "ButtonTextStart" },
+                { xpath: getAks.ButtonTextLaunch, name: "ButtonTextLaunch" },
+                { xpath: getAks.ButtonTextMining, name: "ButtonTextMining" },
+                { xpath: getAks.ButtonInChat, name: "ButtonInChat" }
+            ];
+
+            // Duyệt qua từng button trong danh sách
+            for (let i = 0; i < buttons.length; i++) {
+                const button = buttons[i];
+                if (!button.xpath) { continue; }
+                const exists = await genlogin.elementExistsByXPath(currentPage, button.xpath, 1000);
+
+                if (exists) {
+                    log(`[${profileNameId}][timGame][checkStartGame] ${button.name} tồn tại`);
+
+                    const clicked = await clickM(button.xpath);
+                    if (!clicked) {
+                        throw new Error(`Không click được vào ${button.name}`);
+                    }
+
+                    log(`[${profileNameId}][timGame][checkStartGame] Click ${button.name} OK`);
+                    await launchConfirm();
+                    await delay(2000);
+                    return true; // Kết thúc hàm nếu đã tìm thấy và click thành công
+                }
+            }
+
+            log(`[${profileNameId}][timGame][checkStartGame] Không tìm thấy nút mở game`, null, false);
+            throw new Error('Không tìm thấy nút mở game');
+
+        } catch (error) {
+            log(`[${profileNameId}][timGame][checkStartGame] Chưa load được game: ${error.message}`, null, false);
+            return null;
+        }
+    }
+
+    async function checkLoadGame() {
+        try {
+            log(`[${profileNameId}][timGame][checkLoadGame] Đang kiểm tra tải game`);
+
+            const tags = [bot.tagGame, bot.tagGame1, bot.tagGame2, bot.tagGame3, bot.tagGame4];
+            if (parseInt(bot.newTab) === 1) {
+                log(`[${profileNameId}][timGame][checkLoadGame]newTab mode`, null, 'w', '-');
+                const maxAttempts = 5;
+                const iframeLink = await genlogin.getAttributeFromXPath(currentPage, getAks.Iframe, 'src', 1000);
+                await delay(1000);
+                if (!iframeLink) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Không tìm thấy iframe link`, null, false);
+                    throw new Error('Không tìm thấy iframe link');
+                }
+                log(`[${profileNameId}][timGame][checkLoadGame]tìm thấy iframe link`);
+                const kqNewTab = await genlogin.newTab(browser);
+                if (!kqNewTab) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Không mở tab mới`, null, false);
+                    throw new Error('Không mở tab mới');
+                }
+                log(`[${profileNameId}][timGame][checkLoadGame] Mở tab mới OK`);
+                const newPage = await genlogin.getCurrentPage(browser);
+                if (!newPage) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Không lấy page mới`, null, false);
+                    throw new Error('Không lấy page mới');
+                }
+                const parsedUrl = new URL(iframeLink);
+                iframeLinkHotsName = parsedUrl.hostname;
+                const kqOpenLink = await genlogin.openUrl(newPage, iframeLink);
+                if (!kqOpenLink) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Không mở link iframe`, null, false);
+                    throw new Error('Không mở link iframe');
+                }
+                log(`[${profileNameId}][timGame][checkLoadGame] Mở link iframe OK`);
+                await delay(1000);
+
+                for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Lần kiểm tra thứ ${attempt}`);
+                    for (let i = 0; i < tags.length; i++) {
+                        const result = await genlogin.elementExistsByXPath(newPage, tags[i], 2000);
+                        if (result) {
+                            log(`[${profileNameId}][timGame][checkLoadGame] Game đã sẵn sàng với tag ${tags[i]}`, false);
+                            // await genlogin.switchFrame(currentPage, "mainframe");
+                            await delay(1000);
+                            return true;
+                        }
+                    }
+                    // Đợi 5 giây trước khi thử lại
+                    if (attempt < maxAttempts) {
+                        await new Promise(resolve => setTimeout(resolve, 5000));
+                    }
+                }
+
+                log(`[${profileNameId}][timGame][checkLoadGame] Không load được game sau ${maxAttempts} lần thử`);
+                throw new Error('Không load được game');
+            }
+            else {
+                log(`[${profileNameId}][timGame][checkLoadGame] popup mode`, null, 'w', '-');
+                const maxAttempts = 5;
+                const subframe = await genlogin.switchFrame(currentPage, getAks.Iframe);
+                await delay(1000);
+                if (!subframe) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Không tìm thấy iframe`, null, false);
+                    throw new Error('Không tìm thấy iframe');
+                }
+
+                for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+                    log(`[${profileNameId}][timGame][checkLoadGame] Lần kiểm tra thứ ${attempt}`);
+
+                    for (let i = 0; i < tags.length; i++) {
+                        const result = await genlogin.elementExistsByXPath(subframe, tags[i], 2000);
+                        if (result) {
+                            log(`[${profileNameId}][timGame][checkLoadGame] Game đã sẵn sàng với tag ${tags[i]}`, false);
+                            await genlogin.switchFrame(currentPage, "mainframe");
+                            await delay(1000);
+                            return true;
+                        }
+                    }
+
+                    // Đợi 5 giây trước khi thử lại
+                    if (attempt < maxAttempts) {
+                        await new Promise(resolve => setTimeout(resolve, 5000));
+                    }
+                }
+
+                log(`[${profileNameId}][timGame][checkLoadGame] Không load được game sau ${maxAttempts} lần thử`);
+                throw new Error('Không load được game');
+            }
+
+        } catch (error) {
+            log(`[${profileNameId}][timGame][checkLoadGame] Chưa load được game`, null, false);
+            await genlogin.switchFrame(currentPage, "mainFrame");
+            await delay(1000);
+            return null;
+        }
+    }
+    async function checkFirstStart() {
+        try {
+            await delay(1000);
+            const FirstStartBtn = await genlogin.elementExistsByXPath(currentPage, getAks.FirstStartBtn, 3000);
+            if (!FirstStartBtn) {
+                return null;
+            }
+            log(`[${profileNameId}][timGame][checkFirstStart] Game mới nè bro`, null, true, '-');
+            log(`[${profileNameId}][timGame][checkFirstStart] Chạy ref để vào game`);
+            await delay(1000);
+
+            const kq0 = await ShowInputSearch();
+            if (!kq0) {
+                log(`[${profileNameId}][timGame][checkFirstStart] Không thấy inputSearch`, null, false);
+                return null;
+            }
+
+            //TODO: Vào Saved Messages
+            await delay(1000);
+            // log(`[${profileNameId}][${botName}][checkFirstStart]Ra game OK`);
+            const checkInputSearch = await genlogin.elementExistsByXPath(currentPage, getAks.InputSearch, 2000);
+            if (!checkInputSearch) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không tìm thấy InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart] Tìm thấy InputSearch`);
+            const clicked = await dbClickM(getAks.InputSearch);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không click được vào InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart]Click InputSearch OK`);
+            await delay(1000);
+            const typeText = await genlogin.typeText(currentPage, getAks.InputSearch, 'Saved Messages', 1, 2000);
+            if (!typeText) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không type được vào InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart]Type vào InputSearch OK 'Saved Messages'`);
+            await delay(5000);
+            const kqSearchRes = await genlogin.elementExistsByXPath(currentPage, getAks.SearchRes, 2000);
+            if (!kqSearchRes) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không tìm thấy SearchRes`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart] Tìm thấy SearchRes`);
+            const clicked1 = await clickM(getAks.SearchRes);
+            if (!clicked1) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không click được vào SearchRes`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart]Click SearchRes OK`);
+            //TODO: Ckeck đã có link ref trong này chưa
+            await delay(2000);
+            const xpathRef = `(//a[@class='anchor-url' and @href='${bot.ref}'])[last()]`;
+            const checkLinkRef = await clickLinkRef(xpathRef);
+            if (checkLinkRef) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]click link ref ok`);
+                await reCheckClickStart();
+                return 'loop';
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart]Không Tìm thấy link ref`, null, false);
+            //TODO Nhập link ref vào chat
+            await delay(2000);
+            const checkChatInput = await genlogin.elementExistsByXPath(currentPage, getAks.ChatInput, 2000);
+            if (!checkChatInput) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không tìm thấy ChatInput`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart] Tìm thấy ChatInput`);
+            const click2 = await dbClickM(getAks.ChatInput);
+            if (!click2) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không click được vào ChatInput`, null, false);
+            }
+            else {
+                log(`[${profileNameId}][${botName}][checkFirstStart] Click ChatInput OK`);
+            }
+            await delay(2000);
+            const typeText1 = await genlogin.typeText(currentPage, getAks.ChatInput, bot.ref, 1, 2000);
+            if (!typeText1) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không type được vào ChatInput`, null, false);
+            }
+            else {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Type vào ChatInput OK ${bot.ref}`);
+            }
+            await delay(2000);
+            const checkBtnSend = await clickM(getAks.BtnSend);
+            if (!checkBtnSend) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Không click được vào BtnSend`, null, false);
+            }
+            else {
+                log(`[${profileNameId}][${botName}][checkFirstStart] Click BtnSend OK`);
+            }
+
+            await delay(2000);
+            //TODO: Click vào link ref
+            const checkLinkRef1 = await clickLinkRef(xpathRef);
+            if (checkLinkRef1) {
+                log(`[${profileNameId}][${botName}][checkFirstStart]Click vào LinkRef ok`);
+                await reCheckClickStart();
+                return 'loop';
+            }
+            log(`[${profileNameId}][${botName}][checkFirstStart]Không Click được LinkRef`);
+            return null;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][checkFirstStart][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function clickLinkRef(xpathRef) {
+        try {
+            await delay(1000);
+            const checkLinkRef = await genlogin.elementExistsByXPath(currentPage, xpathRef, 2000);
+            if (checkLinkRef) {
+                log(`[${profileNameId}][${botName}][clickLinkRef]tìm thấy LinkRef`);
+                const clickLinkRef = await clickM(xpathRef);
+                if (!clickLinkRef) {
+                    log(`[${profileNameId}][${botName}][clickLinkRef]Không click được vào LinkRef`, null, false);
+                    return null;
+                }
+                log(`[${profileNameId}][${botName}][clickLinkRef] Click LinkRef OK`);
+                await delay(2000);
+                const checklaunchConfirm = await launchConfirm();
+                if (!checklaunchConfirm) {
+                    log(`[${profileNameId}][${botName}][clickLinkRef]Không click được vào launchConfirm`, null, false);
+                }
+                else {
+                    log(`[${profileNameId}][${botName}][clickLinkRef] Click launchConfirm OK`);
+                }
+                log(`[${profileNameId}][${botName}][clickLinkRef] click ref OK`);
+                return true;
+            }
+            log(`[${profileNameId}][${botName}][clickLinkRef]Không tìm thấy LinkRef ${xpathRef}`, null, false);
+            return null;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][clickLinkRef][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+
+    async function reCheckClickStart() {
+        try {
+            await delay(1000);
+
+            const checkInputSearch = await genlogin.elementExistsByXPath(currentPage, getAks.InputSearch, 2000);
+            if (!checkInputSearch) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không tìm thấy InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart] Tìm thấy InputSearch`);
+            const clicked = await dbClickM(getAks.InputSearch);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không click được vào InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart]Click InputSearch OK`);
+            await delay(1000);
+            const typeText = await genlogin.typeText(currentPage, getAks.InputSearch, botName, 1, 2000);
+            if (!typeText) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không type được vào InputSearch`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart]Type vào InputSearch OK`);
+            await delay(5000);
+            const kqSearchRes = await genlogin.elementExistsByXPath(currentPage, getAks.SearchRes, 2000);
+            if (!kqSearchRes) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không tìm thấy SearchRes`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart] Tìm thấy SearchRes`);
+            const clicked1 = await clickM(getAks.SearchRes);
+            if (!clicked1) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không click được vào SearchRes`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart]Click SearchRes OK`);
+            //TODO: Check lại nút start
+            await delay(1000);
+            const FirstStartBtn1 = await genlogin.elementExistsByXPath(currentPage, getAks.FirstStartBtn, 3000);
+            if (!FirstStartBtn1) {
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart] vẫn thấy nút start`);
+            await delay(1000);
+            const clickStart = await clickM(getAks.FirstStartBtn);
+            if (!clickStart) {
+                log(`[${profileNameId}][${botName}][reCheckClickStart]Không click được vào nút start`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][reCheckClickStart] Click start OK`);
+            await delay(2000);
+            return true;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][reCheckClickStart][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function ShowInputSearch() {
+        try {
+            // TODO: Kiểm tra xem inputsearch co existence  
+            log(`[${profileNameId}][timGame][ShowInputSearch] ShowInputSearch`, null, true, '-');
+            await delay(500);
+            let demLoop = 0;
+            const maxDemLoop = 10;
+            while (demLoop < maxDemLoop) {
+                demLoop++;
+                //TODO: Check Nút back để hiện ô tìm kiếm
+                const kqCkSideBarRightClose = await genlogin.elementExistsByXPath(currentPage, getAks.sideBarRightClose, 1000);
+                if (!kqCkSideBarRightClose) {
+                    log(`[${profileNameId}][timGame][ShowInputSearch] Không tìm thấy nút sideBarRightClose`, null, false);
+                }
+                else {
+                    log(`[${profileNameId}][timGame][ShowInputSearch] Tìm thấy nút sideBarRightClose`);
+                    const kqClickSideBarRightClose = await clickM(getAks.sideBarRightClose);
+                    if (!kqClickSideBarRightClose) {
+                        log(`[${profileNameId}][timGame][ShowInputSearch] Không click được vào nút sideBarRightClose`, false);
+                        // throw new Error('Không click được vào nút sideBarRightClose');
+                        continue;
+                    }
+                    log(`[${profileNameId}][timGame][ShowInputSearch] click nút sideBarRightClose ok`);
+                    await delay(1000);
+                    continue;
+                }
+                //TODO: Check Nút back để hiện ô tìm kiếm
+                const kqCkBackArrow = await genlogin.elementExistsByXPath(currentPage, getAks.BackArrow, 1000);
+                if (!kqCkBackArrow) {
+                    log(`[${profileNameId}][timGame][ShowInputSearch] Không tìm thấy nút BackArrow`, null, false);
+                }
+                else {
+                    log(`[${profileNameId}][timGame][ShowInputSearch] Tìm thấy nút BackArrow`);
+                    const kqClickBackArrow = await clickM(getAks.BackArrow);
+                    if (!kqClickBackArrow) {
+                        log(`[${profileNameId}][timGame][ShowInputSearch] Không click được vào nút BackArrow`, null, false);
+                        // throw new Error('Không click được vào nút BackArrow');
+                        continue;
+                    }
+                    log(`[${profileNameId}][timGame][ShowInputSearch] click nút BackArrow ok`);
+                    await delay(1000);
+                    continue;
+                }
+                const inputsearch = await genlogin.elementExistsByXPath(currentPage, getAks.InputSearch, 1000);
+                if (inputsearch) {
+                    log(`[${profileNameId}][timGame][ShowInputSearch]tìm thấy inputsearch`, null);
+                    break;
+                }
+            }
+            const kq = await dbClickM(getAks.InputSearch);
+            if (!kq) {
+                log(`[${profileNameId}][timGame][ShowInputSearch]Không click được vào inputsearch`, false);
+            }
+            else {
+                log(`[${profileNameId}][timGame][ShowInputSearch] click inputsearch ok`);
+            }
+
+            return true;
+        }
+        catch (error) {
+            log(`[${profileNameId}][${botName}][timGame][ShowInputSearch][Lỗi]: ${error}`, null, false);
+            return null;
+
+        }
+    }
+    async function click(xpath, tagClick = false) {
+        try {
+            await delay(1000);
+            const clicked = await genlogin.click(subframe, { xpath: xpath, mainframe: currentPage, browser: browser, dbclick: false, tagClick: tagClick }, 1000);
+            await delay(1000);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][click]Không click được vào ${xpath}`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][click]Click ${xpath} OK`);
+            return clicked;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][click][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function dbClick(xpath, tagClick = true) {
+        try {
+            await delay(1000);
+            const clicked = await genlogin.click(subframe, { xpath: xpath, mainframe: currentPage, browser: browser, dbclick: true, tagClick: tagClick }, 1000);
+            await delay(1000);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][dbclick]Không dbclick được vào ${xpath}`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][dbclick]dbclick ${xpath} OK`);
+            return clicked;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][dbclick][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function clickM(xpath, tagClick = false) {
+        try {
+            await delay(1000);
+            const clicked = await genlogin.click(currentPage, { xpath: xpath, mainframe: currentPage, browser: browser, dbclick: false, tagClick: tagClick }, 3000);
+            await delay(1000);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][clickM]Không click được vào ${xpath}`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][clickM]Click ${xpath} OK`);
+            return clicked;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][clickM][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function dbClickM(xpath, tagClick = false) {
+        try {
+            await delay(1000);
+            const clicked = await genlogin.click(currentPage, { xpath: xpath, mainframe: currentPage, browser: browser, dbclick: true, tagClick: tagClick }, 5000);
+            await delay(1000);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][dbClickM]Không click được vào ${xpath}`, null, false);
+                return null;
+            }
+            log(`[${profileNameId}][${botName}][dbClickM]Click ${xpath} OK`);
+            return clicked;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][dbClickM][Lỗi]: ${error}`, null, false);
+            return null;
+        }
+    }
+    async function clickP(x, y) {
+        try {
+            await delay(1000);
+            const clicked = await genlogin.click(currentPage, { x: x, y: y, mainframe: currentPage, browser: browser }, 1000);
+            await delay(1000);
+            if (!clicked) {
+                log(`[${profileNameId}][${botName}][click]Không click được vào tọa độ ${x}:${y}`, false);
+                throw new Error(`Không click được vào ${xpath}`);
+            }
+            log(`[${profileNameId}][${botName}][click]Click ${x}:${y} OK`);
+            return clicked;
+        } catch (error) {
+            log(`[${profileNameId}][${botName}][click][Lỗi]: ${error}`, false);
+            return null;
+        }
+    }
+    async function delay(ms) {
+        return new Promise((resolve) => {
+            if (signal.aborted) { throw new Error(`timeout`); }
+            setTimeout(resolve, ms); // Gọi resolve sau khi hết thời gian ms
+        });
+    }
+};
