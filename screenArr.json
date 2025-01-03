@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "scale": 0.6,
+    "scale": 0.5,
     "width": 400,
     "height": 900,
     "rows": [
@@ -14,7 +14,7 @@
           }
         },
         {
-          "status": 0,
+          "status": 1,
           "pos": {
             "x": 200,
             "y": 0
