@@ -9,21 +9,21 @@
     "rows": [
       [
         {
-          "status": 1,
+          "status": 0,
           "pos": {
             "x": 0,
             "y": 0
           }
         },
         {
-          "status": 1,
+          "status": 0,
           "pos": {
             "x": 389,
             "y": 0
           }
         },
         {
-          "status": 1,
+          "status": 0,
           "pos": {
             "x": 778,
             "y": 0
