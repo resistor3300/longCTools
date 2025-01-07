@@ -1,15 +1,15 @@
 [
   {
     "id": 0,
-    "scale": 0.7737809374999999,
+    "scale": 1,
     "width": 400,
     "height": 900,
-    "widthScale": 389,
-    "heightScale": 696,
+    "widthScale": 504,
+    "heightScale": 900,
     "rows": [
       [
         {
-          "status": 1,
+          "status": 0,
           "pos": {
             "x": 0,
             "y": 0
@@ -18,35 +18,14 @@
         {
           "status": 0,
           "pos": {
-            "x": 389,
+            "x": 504,
             "y": 0
           }
         },
         {
           "status": 0,
           "pos": {
-            "x": 778,
-            "y": 0
-          }
-        },
-        {
-          "status": 0,
-          "pos": {
-            "x": 1167,
-            "y": 0
-          }
-        },
-        {
-          "status": 0,
-          "pos": {
-            "x": 1556,
-            "y": 0
-          }
-        },
-        {
-          "status": 0,
-          "pos": {
-            "x": 1945,
+            "x": 1008,
             "y": 0
           }
         }
