@@ -1,32 +1,76 @@
 [
   {
     "id": 0,
-    "scale": 1,
+    "scale": 0.5987369392383786,
     "width": 400,
     "height": 900,
-    "widthScale": 504,
-    "heightScale": 900,
+    "widthScale": 301,
+    "heightScale": 538,
     "rows": [
       [
         {
-          "status": 0,
+          "status": 1,
           "pos": {
             "x": 0,
             "y": 0
           }
         },
         {
-          "status": 0,
+          "status": 1,
           "pos": {
-            "x": 504,
+            "x": 301,
             "y": 0
           }
         },
         {
           "status": 0,
           "pos": {
-            "x": 1008,
+            "x": 602,
             "y": 0
+          }
+        },
+        {
+          "status": 0,
+          "pos": {
+            "x": 903,
+            "y": 0
+          }
+        },
+        {
+          "status": 0,
+          "pos": {
+            "x": 1204,
+            "y": 0
+          }
+        },
+        {
+          "status": 0,
+          "pos": {
+            "x": 1505,
+            "y": 0
+          }
+        },
+        {
+          "status": 0,
+          "pos": {
+            "x": 1806,
+            "y": 0
+          }
+        },
+        {
+          "status": 0,
+          "pos": {
+            "x": 2107,
+            "y": 0
+          }
+        }
+      ],
+      [
+        {
+          "status": 0,
+          "pos": {
+            "x": 0,
+            "y": 538
           }
         }
       ]
