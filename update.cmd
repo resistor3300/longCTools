@@ -11,7 +11,7 @@ cd /d "%~dp0"
 :: Bước 4: Sao lưu file .env (nếu tồn tại)
 if exist .env (
     echo Sao luu file .env...
-    copy /y .env .env.bak >nul
+    copy /y .env .env.bakk >nul
 )
 :: Bước 4: Thực hiện các lệnh Git
 git fetch
@@ -20,8 +20,8 @@ git pull
 :: Bước 6: Phục hồi file .env từ bản sao lưu (nếu có)
 if exist .env.bak (
     echo Phuc hoi file .env...
-    copy /y .env.bak .env >nul
-    del .env.bak >nul
+    copy /y .env.bakk .env >nul
+    del .env.bakk >nul
 )
 :: Bước 5: Ghi đè file `update.cmd` từ Git nếu có thay đổi
 if exist "%TEMP_CMD%" (
