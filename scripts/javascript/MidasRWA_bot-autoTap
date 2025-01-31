@@ -1,0 +1,24 @@
+let maxWaitTime = 10000; // Thời gian tối đa 10 giây
+let clickIntervalTime = 1000; // Thời gian mỗi lượt click là 100ms
+let checkInterval = 1000; // Kiểm tra mỗi giây
+let initialTapCount = 0; // Lưu số lượt tap ban đầu
+let clickMade = false; // Biến đánh dấu nếu đã click
+let clickInterval; // Biến lưu trữ interval cho click
+let checkingInterval; // Biến lưu trữ interval cho kiểm tra
+let elapsedTime = 0; // Thời gian đã trôi qua
+
+// Hàm để kiểm tra số lượt tap
+function checkTapCount() {
+        // Nếu số lượt tap lớn hơn 100 và chưa click
+            clickMade = true; // Đánh dấu đã click
+            let coinElement = document.evaluate("//img[contains(@alt,'rock')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+            if (coinElement) {
+                clickInterval = setInterval(() => {
+                    coinElement.click();
+                    console.log("Đã click vào đá.");
+                }, clickIntervalTime);
+            }
+}
+
+// Bắt đầu kiểm tra
+checkingInterval = setInterval(checkTapCount, checkInterval);
