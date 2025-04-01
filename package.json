@@ -1,6 +1,6 @@
 {
   "name": "longc",
-  "version": "4.0.93",
+  "version": "4.0.94",
   "type": "module",
   "main": "index.js",
   "scripts": {
